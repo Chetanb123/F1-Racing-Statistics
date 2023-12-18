@@ -1,0 +1,20 @@
+
+## Author
+- **Name:** Chetan Boddeti
+- **Email:** boddeti2@illinois.edu
+
+ 
+## Purpose
+
+The purpose of this application is to be able to access and visualize how a specific racer's
+history looks like over the course of a year. The point of this project is to get an understanding
+of the racer's past and see how they have performed over the course of different races every year.
+This is a key indicator how how well they have trained and ultimately proven to the world.
+
+
+## Data
+The source of the data comes from the tidytuesday repository. The 2021, Sep. 7 data is all about f1 racing information. The data that is present in the app consists of 5 variables. The first one is the racer, this data represents the f1 driver that the data set is modified to show about. All of the past and data points revolve around the specific driver. The year represents the year at which all the data is shown from. The position represents what position the driver started the race in which is determined by a qualifying race. These are the three input that is fed into the app. The outputs are the points recieved by the driver in a specific race. Lastly, the name is the name of the race that each column, or point represents in a specific year.
+ 
+## References
+
+https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-09-07
